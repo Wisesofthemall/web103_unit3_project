@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='client/public/Database.png' title='Database Screenshot' width='' alt='Database Screenshot' />
-<img src='client/public/AppDemo.gif' title='App Demo' width='' alt='App DEMO' />
+<img src='client/public/PreviewApp.gif' title='App Demo' width='' alt='App DEMO' />
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with ... GIF tool here
